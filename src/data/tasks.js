@@ -16,5 +16,5 @@ export const tasks = [
     title: "Mi tercer tarea",
     description:
       "Ipsum ea et do pariatur anim anim.",
-  },
+  }
 ];
